@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=1F3864&height=200&section=header&text=Sainaath%20Kaasa&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20Full%20Stack%20%7C%20Java%20%C2%B7%20.NET%20%7C%20AWS&descAlignY=55&descAlign=50" />
+</p>
+
 <h1 align="center">Hi, I'm Sainaath Kaasa 👋</h1>
 
 <p align="center">
@@ -76,6 +80,33 @@ I have delivered **2 end-to-end projects** in production — a Vehicle Access Ma
 
 ---
 
+## 🌐 Portfolio & Stats
+
+<p align="center">
+  <a href="https://sainaathkaasa.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/🚀%20Portfolio-sainaathkaasa.vercel.app-1F3864?style=for-the-badge&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/sainaath-kaasa/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-sainaath--kaasa-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:sainaath4763@gmail.com">
+    <img src="https://img.shields.io/badge/Email-sainaath4763@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sainaathkaasa&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sainaathkaasa&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sainaathkaasa&theme=tokyonight&hide_border=true" height="150"/>
+</p>
+
 <p align="center">
   <i>Open to Software Engineer roles across India — Full Stack, Backend, or Platform Engineering</i>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=1F3864&height=100&section=footer"/>
 </p>
