@@ -50,17 +50,6 @@ I have delivered **2 end-to-end projects** in production — a Vehicle Access Ma
 - Automated CI/CD using Jenkins and AWS, reducing manual deployment effort significantly
 - Achieved near-zero data loss for continuous sensor data streaming
 
----
-
-[## 🛠️ Tech Stack
-
-- Languages: Java, C#, Python, JavaScript, TypeScript
-- Backend: Spring Boot, .NET Core, .NET Web API, .NET MVC
-- Frontend: React, HTML5, CSS3
-- Databases: MSSQL, PostgreSQL, MySQL, MongoDB
-- Cloud & DevOps: AWS, Docker, Jenkins, Kafka, MQTT
-- Tools: IIS, Git, Postman, Raspberry Pi](url)
-
 
 ---
 
@@ -68,15 +57,6 @@ I have delivered **2 end-to-end projects** in production — a Vehicle Access Ma
 
 - Jenkins: Jobs, Pipelines, CI/CD and DevOps for Beginners — Udemy (2024)
 - Java Full Stack Development — JSpiders (2023)
-
----
-
-[## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://sainaathkaasa.vercel.app/" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sainaathkaasa&layout=compact&theme=tokyonight" height="150"/>
-</p>](url)
 
 ---
 
