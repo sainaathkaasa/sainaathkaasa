@@ -50,7 +50,6 @@ I have delivered **2 end-to-end projects** in production — a Vehicle Access Ma
 
 ## 🛠️ Tech Stack
 
-- CategoryTechnologies
 - Languages: Java, C#, Python, JavaScript, TypeScript
 - Backend: Spring Boot, .NET Core, .NET Web API, .NET MVC
 - Frontend: React, HTML5, CSS3
